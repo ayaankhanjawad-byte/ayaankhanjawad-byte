@@ -54,16 +54,14 @@ Passionate about building reliable software, solving algorithmic problems, and c
 ## Backend
 
 - Flask
-- .NET
+- .NET (CRUD Operations)
 - REST APIs
-- CRUD Operations
-- MVC Architecture
+- Spring Boot(Learning)
 
 ## Databases
 
 - MySQL
 - SQLite
-- Firebase Firestore
 
 ## Cloud & Deployment
 
@@ -134,7 +132,7 @@ Waste complaint management platform developed to streamline complaint registrati
 
 <a href="https://leetcode.com/u/ayaan_igreflex/">
 
-<img src="https://leetcard.jacoblin.cool/ayaan_igreflex?theme=light&font=Inter&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/ayaan_igreflex?theme=dark&font=Inter&ext=contest"/>
 
 </a>
 
