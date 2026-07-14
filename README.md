@@ -5,116 +5,122 @@ Computer Science Engineering Student
 </p>
 
 <p align="center">
-<a href="https://github.com/ayaankhanjawad-byte">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&duration=3500&color=0A66C2&center=true&vCenter=true&width=750&lines=Software+Engineering+Intern+%40+Terralogic;Java+Developer;Angular+%7C+Flask+Developer;Backend+Development;Data+Structures+%26+Algorithms" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern+%40+Terralogic;Backend+Development;Java+Developer;Angular+Developer;Data+Structures+%26+Algorithms" />
 </p>
 
 ---
 
-## About
+# About
 
-Computer Science Engineering student with a strong interest in software engineering, backend development, and scalable web applications.
+Computer Science Engineering student with a strong interest in software engineering, backend development, and scalable application development.
 
-Currently working as a **Software Engineering Intern at Terralogic**, where I am gaining hands-on experience with modern software development practices and enterprise engineering workflows.
-
-I enjoy solving algorithmic problems, building practical applications, and continuously improving my engineering skills.
+Passionate about building reliable software, solving algorithmic problems, and continuously improving engineering skills through practical development and problem solving.
 
 ---
 
-## Work Experience
+# Work Experience
 
-### Software Engineering Intern
-**Terralogic** • 2026
+## Software Engineering Intern
+**Terralogic**
 
-- Contributing to software engineering projects using modern development practices.
-- Working with collaborative development workflows using Git and GitHub.
-- Learning enterprise application architecture and clean coding standards.
-- Gaining practical experience in professional software development environments.
-
----
-
-## Technical Skills
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cs,python,c,js,ts,html,css,sql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,react" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-REST APIs
-
-CRUD Applications
-
-Authentication
-
-MVC Architecture
-
-Object-Oriented Programming
+- Contributed to backend development using .NET.
+- Worked with REST APIs and CRUD operations.
+- Collaborated using Git and GitHub in a professional development workflow.
+- Followed software engineering best practices including clean code and modular development.
+- Gained experience working on enterprise software development practices.
 
 ---
 
-### Databases
+# Technical Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
-</p>
+## Languages
 
----
+- Java
+- C#
+- Python
+- C
+- JavaScript
+- TypeScript
+- SQL
+- HTML
+- CSS
 
-### Cloud & Deployment
+## Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,vercel" />
-</p>
+- Angular
+- Bootstrap
+- Tailwind CSS
 
----
+## Backend
 
-### Tools
+- Flask
+- .NET
+- REST APIs
+- CRUD Operations
+- MVC Architecture
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+## Databases
+
+- MySQL
+- SQLite
+- Firebase Firestore
+
+## Cloud & Deployment
+
+- Google Cloud Platform
+- Vercel
+
+## Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- Gemini AI API
+- N8N
+
+## Computer Science Fundamentals
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
 
 ---
 
 # Projects
 
-## 🔐 AuthSentry
+## AuthSentry
 
-Secure authentication and fraud prevention platform built using React, TypeScript, Supabase and Vite.
+Authentication and user management platform focused on secure authentication, authorization, and backend integration.
 
----
+**Tech Stack**
 
-## 💰 Financial Tracker
-
-Expense and income management web application with complete CRUD functionality using Flask and SQLite.
+React, TypeScript, Supabase, Vite
 
 ---
 
-## ♻️ KARTHA
+## Financial Tracker
 
-Smart waste complaint management platform developed for hackathons.
+Expense and income management web application supporting authentication and complete CRUD functionality.
+
+**Tech Stack**
+
+Flask, Python, SQLite, HTML, CSS
 
 ---
 
-## 📊 GitHub Statistics
+## KARTHA
+
+Waste complaint management platform developed to streamline complaint registration and administrative workflow.
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayaankhanjawad-byte&show_icons=true&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayaankhanjawad-byte&show_icons=true&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaankhanjawad-byte&layout=compact&hide_border=true"/>
 
@@ -122,17 +128,7 @@ Smart waste complaint management platform developed for hackathons.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayaankhanjawad-byte&theme=github-compact"/>
-
-</p>
-
----
-
-## LeetCode
+# LeetCode
 
 <p align="center">
 
@@ -146,28 +142,20 @@ Smart waste complaint management platform developed for hackathons.
 
 ---
 
-## Connect
+# Profiles
 
-<p>
+GitHub
 
-<a href="https://github.com/ayaankhanjawad-byte">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+https://github.com/ayaankhanjawad-byte
 
-<a href="https://leetcode.com/u/ayaan_igreflex/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+LinkedIn
 
-<a href="https://linkedin.com/in/ayaankhantech">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+https://linkedin.com/in/ayaankhantech
 
-<a href="mailto:ayaankhanjawad@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+LeetCode
 
-</p>
+https://leetcode.com/u/ayaan_igreflex
 
----
+Email
 
-> *"Building software with clean architecture, scalable solutions, and continuous learning."*
+ayaankhanjawad@gmail.com
