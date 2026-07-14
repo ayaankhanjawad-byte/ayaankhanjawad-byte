@@ -85,6 +85,7 @@ Passionate about designing reliable applications, solving algorithmic problems, 
 - Object-Oriented Programming
 - Database Management Systems
 - Operating Systems
+- Software Engineering
 
 ---
 
